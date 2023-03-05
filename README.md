@@ -17,6 +17,27 @@ All the above must be designed, functional and have high aesthetic quality.
 7.Portfolio-Worthiness (Aesthetics) - 8  What does it look like? What will people (employers) think?
 ```
 
+
+## Technology Used
+<ul>
+<li><a href="https://www.npmjs.com/package/bootstrap">Bootstrap</a></li>
+<li><a href="https://www.npmjs.com/package/bootstrap-hero">Bootstrap-hero</a></li>
+<li><a href="https://www.npmjs.com/package/firebase">Firebase</a></li>
+<li><a href="https://www.npmjs.com/package/firebase">Netlify</a></li>
+<li><a href="https://www.npmjs.com/search?q=quill-delta-to-html">Quill-delta-to-html</a></li>
+<li><a href="https://www.npmjs.com/package/react-bootstrap">React-bootstrap</a></li>
+<li><a href="https://reactjs.org/docs/create-a-new-react-app.html">React</a></li>
+<li><a href="https://www.npmjs.com/package/react-dom">React-dom</a></li>
+<li><a href="https://www.npmjs.com/package/react-icons">React-icons</a></li>
+<li><a href="https://www.npmjs.com/package/react-router-dom">React-router-dom</a></li>
+<li><a href="https://www.npmjs.com/package/react-scripts">React-scripts</a></li>
+<li><a href="https://www.npmjs.com/package/react-storage-hooks">React-storage-hooks</a></li>
+<li><a href="https://www.npmjs.com/package/react-toastify">React-toastify</a></li>
+<li><a href="https://www.npmjs.com/package/serve">Serve</a></li>
+
+</ul>
+
+
 ### Links
 
 <br>Link to view <a href="https://applied-js-3.netlify.app/">The Purrington Post</a>
