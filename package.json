@@ -1,0 +1,43 @@
+{
+  "name": "final",
+  "version": "0.2.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-hero": "^1.0.1",
+    "firebase": "^7.14.2",
+    "netlify": "^13.1.2",
+    "quill-delta-to-html": "0.12.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^16.13.1",
+    "react-icons": "^4.8.0",
+    "react-quill": "2.0.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "5.0.1",
+    "react-storage-hooks": "^4.0.1",
+    "react-toastify": "^9.1.1",
+    "serve": "^14.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

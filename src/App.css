@@ -1,0 +1,110 @@
+a {
+  color: #26738d;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #24A3A1;
+}
+
+
+article {
+  padding: 1rem;
+}
+
+
+
+form {
+  padding: 1rem;
+}
+
+
+
+.logo {
+  list-style: none;
+  font-size: 40px;
+  color: #26738d;
+  display: inline-block;
+}
+
+form label {
+  display: block;
+  padding: 0.5rem 0;
+}
+
+form input#form-title {
+  min-width: calc(100% - 20px);
+  padding: 10px;
+  font-size: 1rem;
+}
+
+form .ql-editor {
+  height: 150px;
+}
+
+
+
+form button[type="submit"] {
+  border: 1px #ccc solid;
+
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+}
+
+form button[type="submit"]:hover {
+  cursor: pointer;
+}
+
+.post {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.footer {
+  position: sticky;
+  margin-top: 1em;
+  background: #D5F2EA;
+  position: sticky;
+  bottom: 0;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.nav-bar-style {
+  background: #D5F2EA;
+}
+
+.navbar-toggler-icon {
+  color: #26738d;
+}
+
+.nav-link {
+  color: #26738d;
+  font-size: larger;
+}
+
+.nav-link:hover {
+  color: #0A4A57;
+}
+
+
+
+.toast-message-success {
+  font-size: 20px;
+  width: 34vw;
+  padding: 30px 20px;
+}
+
+.toast-message-updated {
+  font-size: 20px;
+  width: 34vw;
+  padding: 30px 20px;
+}
+
+.toast-message-deleted {
+  font-size: 20px;
+  width: 34vw;
+  padding: 30px 20px;
+}
