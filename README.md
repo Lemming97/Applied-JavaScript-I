@@ -4,6 +4,9 @@
 
 169018 Applied JavaScript I
 
+## License 
+This project is license under MIT ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+
 ## Requirements  
 
 ```
